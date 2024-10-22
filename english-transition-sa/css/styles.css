@@ -1,2 +1,16 @@
-├── css/
-│   └── styles.css ()
+/* Basic styles for the body of the webpage */
+body {
+    font-family: Arial, sans-serif; /* Sets the font for the body */
+    line-height: 1.6; /* Increases line spacing for better readability */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+    background-color: #f4f4f4; /* Sets a light gray background color */
+}
+
+/* Styles for the header section */
+header {
+    background: #35424a; /* Dark background color for the header */
+    color: #ffffff; /* White text color */
+    padding: 20px; /* Adds padding inside the header */
+    text-align: center; /* Centers the text */
+}
