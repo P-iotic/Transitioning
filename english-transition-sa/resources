@@ -1,2 +1,9 @@
+Transitioning/
+├── index.html               # Main HTML file for the website
+├── css/                     # Directory for CSS files
+│   └── styles.css          # Stylesheet for the website
+├── js/                      # Directory for JavaScript files
+│   └── main.js             # JavaScript file for future scripts
+└── resources/               # Directory for additional resources (PDFs, images, etc.)
 └── resources/
     └── (for PDFs, images, etc.)
